@@ -1,0 +1,158 @@
+
+                          Checking if the user is within reach to deliver
+
+Case scenario: when a new user goes to the homepage the user interface asks the user to enter their zip code.
+1) As a user, I want a zip code input in the homepage so that the system would check if the business is close by to do delivery in my area.
+2)As a user, I want to be able to register if the business is available in my area so that I wouldn't waste time and recourse signing up to a business that's not available to me.
+3)As a user, I want to input my email and info into a  form, so that when the business becomes available in my area I can get a notification.
+
+
+                                      Creating a user account 
+1) As a user, I want to verify my phone number so the delivery guy, in a worst case scenario, an example the delivery guy have difficulty finding the address or need to call me to specify something he would have my number to call me.
+2) As a user, I want to verify my email so that I can get notified on special offer and deals.
+3) As a user, I want to enter my address, apt number and zip code so that the business knows where my located to pick up and deliver my laundry.
+4) As a user, I want to verify my email.
+5) As a user, I want to specify that I have a doorman so that I can leave my laundry with my doorman and have the delivery guy pick it up from the doorman.
+6) As a user, I want to input a driving instruction, in case I need to give additional information to the driver like a broken buzzer or special driving direction.
+7) As a user, I want to input additional note for the business on how to take care of my laundry.
+8) As a user, I want to choose a pickup and drop off date
+9)As a user, I want the time for pick and delivery to be available on 6:30 am to 8:00 am and 6 pm to 8 pm so that I can choose between the morning or the afternoon.
+10) As a user, If I need my delivery done within 24 hours I can have the rush delivery option.
+11) As a user, I want to choose between 2 option, wash and fold, Dry cleaning or both.
+12) As a user, for the wash and fold option, I want the white and colors clothes to be separated.
+13) As a user, I want to specify how I want the colors and white clothes to be wash depending on my preference.
+14) As a user, I can specify the wash temperature for both colors and whites clothes, so that I can set a cold or warm wash.
+15) As a user, I can specify the Dryer Heat for both colors and whites clothes, so that I can set a regular dry or low dry to the dryer.
+16) As a user, I want to add bleach to my white clothes.
+17) As a user, I can use Scented detergent to either white, color clothes, or both of my clothes
+18) As a user, I can choose a special laundry care package, so that I can have my clothes wash with certain soaps.
+19) As a user, If I want multiple laundry care, I would need to specify to the delivery person or business which bags are for what laundry care, it would be recommended to mark down with a marker which laundry bag would be for what care.
+20) As a user, I can choose the baby wash package so I can wash my infant laundry with soaps ideal for a dedicate baby Skin.
+21) As a user, I can choose a color  package, so I can wash my color laundry with soaps that helps colors stay vivid, dark and maintain the original color intensity 
+22)As a user, I can choose a Natural package so that I can wash my laundry with soaps that help keep color bright while being gentle on my skin, an all-purpose natural laundry.
+23) As a user, I can choose a shape care package so that I can wash my laundry without worrying about stretching, shrinking or fading.
+24) As a user, if I don't want a customize laundry care package I can choose my own soap and fabric softener. 
+25) As a user, I can pick from a list of soap and fabric softeners, or I can choose regular soap and fabric softeners which is free
+26) As a user, I want to click on the soap and fabric softeners that display on the list, so I can see more info and the price of it.
+27) As a business, I want to specify the user status whether it's a single person, couple, family or the size of the family so the driver knows how much bags to bring for the first time.
+28) As a user, I can have personless pickup and delivery, so that I can use the service with my busy schedule.
+29) As a user, I want the business to provide a hanging bar after my first delivery so that I can place the hang bar on my door when I'm not home for delivering and pickup.
+30) As a user, I want to leave my order in the hang bar, so the driver knows where to pick it up.
+31) As a user, I want to leave my hang bar outside my door, so that the driver can place my clean item in the bar.
+32) As a user, I want the driver to take a picture of the of the delivery and send it to me via text when im not home so that I know exactly where my item was delivered.
+33)  As a user, I want to make sure my driver has access to the location for delivery and pickup, like a remote buzzer or a doorman, so that I can have my clothes deliver and pick up.
+34) As a user, there no need to be home, so that I can have my laundry deliver without being home.
+35) As a user, I want to add a credit card before confirming an order.
+36)As a user, I want an order summary, so that I can confirm my order
+37) As a user, I want a screen to confirm my order, and the date they go pick up my laundry so that I know my order was successful and went through the system
+38) As a user, when im login, the homepage screen to should display three links icons, Order status, create a new order, an account.
+39) As a user, I want an order status, so that I can see the status of my laundry, an example, user laundry is being processed, laundry arrives at the location, or laundry is on the way to the user location.
+40) As a user, I should be able to reschedule pick up or drop off.
+41)As a user, I should be able to view my order history.
+42) As a user, my order history should contain the invoice, laundry pounds, dry cleaning items, and the time my laundry was delivered and drop off so that I can view all my previous order history.
+43)  As a user, I want my order history to be in the menu toolbar.
+44) As a user, I want to a create new order icon in my homepage so that I make an order.
+45)As a user, I should be able to make a quick order, if I've ordered before so that I won't have to type the same input as last time, I can just make a quick order.
+46) As a user, before placing a quick order I should see my save preference so that I can be sure that my order is going be correct.
+47) As a user, when using a quick order, I should preview my order and edit it.
+48) As a user, I can create an entirely new order, with a new address, new washing preference, and etc...
+49) As a user, I want an account setting icon on the homepage so that I can edit my phone number, payment method, and Address.
+50) As a user, I should specify the type of building I live in whether its a house, apartment, or office when creating a new order and registering.
+
+
+
+                                      Driver Requirement
+1) As a driver, I want to have the address of the user, so that I know where to pick up for delivery and drop off
+2) As a driver, I want to have the phone number of the user im going to so that I can call him, in case I need to clarify something.
+3) As a driver, I want to notify the user that im going be arriving 30 minutes from their address, so that the user can be ready.
+4) As a driver, I want a list of Adress within the neighborhood or borough. so that I can sort the list as im doing delivery.
+5) As a driver, I want to have the bag with the name and address of the user, so that I know I'm delivering the correct bag
+6) As a driver, I want to know how many bags of each user im delivering to so that I won't miss a bag and get the correct count.
+7) As a driver, I want to mark the delivery done so that I can move on to the next address on the list.
+8) As a driver, I want to know whether the user is going be home or not so that I know if its okay to drop off their delivery when they not home.
+9) As a driver, I want to know if im dealing with a first time user or they're a regular customer so that I can get them new bags and figure out their requirement
+10) As a driver, if they're a new customer I would like to figure out their preferred delivery method and how many bags or additional information so that I can put it or change it into the database.
+11) As a driver, I want to know what laundry care package or kind of soap and softner my customers would like to use so that their clothes can get dry accordingly
+12) As a driver, if upon arrival the user want to change how their laundry is done I should be able to change the database to their laundry preference so the user laundry get wash accordingly
+13) As a driver,  if I arrive at the user address and the user not available for pick up and it's not a personless pickup, I would mark them as absent so that the system can charge them 5 dollar fee.
+14) As a driver, if the user is absent I would send a text message saying the delivery came by but couldn't drop off and to call or text the business so that we can reschedule for another day.
+15) As a driver, I want to mark the customer bag with their name, address, and washing requirement in the bag so that the laundry business know which bag their washing and whats the washing preference is.
+16) As a driver, I want to know which bags are the dry cleaning and which one is the washing clothes, so I can mark which bag is what.
+17) As a driver, I want an app on my phone with a list of user addresses, so that when I click it would open a map navigator that would guide me to the user address.
+18) As a driver, I want to be able to click on the user so that I can view user information for like laundry preference, persons less pickup, dry cleaning needs, specific requirements, first time doing business, how many bags and special instruction so that the driver knows how to sort bags, find the location and how to handle the user base on that information.
+19) As a driver, I want to be able to change the database of the user, so that when I arrive at the user location and the user wants to change a requirement or specify a request I am able to access the database and change the user request.
+20) As a driver, I should have access to the specific database so that when I arrive at the location of the user and the user needs something changes like washing preference, delivery method, and ext...  I'll be able to do the change.
+        21)As a driver, I should be able to change if delivery contains dry cleaning or laundry washing service 
+        22) As a driver, I should be able to change additional tips on how to get to the user location
+        23) As a driver, I should be able to change the user address.
+        24) As a driver, I should be able to change if the user needs additional bags for next time
+       25) As a driver, the driver should be able to change the user washing preference like softners, detergent, cold or warm wash, regular or low heat 
+       26) As a driver, the driver should be able to change user laundry care package and specify how many bags would need the care package so that I can sort the bag's base on washing preference.
+       27)  As a driver, the driver should be able to change user marital status
+       28) As a driver, the driver should be able to mark the pickup and delivery as done.
+        29) As a driver, the driver should be able to change the personless pickup and drop off status.
+       30) As a driver, I want to be able to add additional information about the         user
+31)As a driver, I want to be able to use the apps to login so that I can access the user's list based on the neighborhood I am or borough.
+32) As a driver, I want a list of pickups I need to do that day so that I can sort out all the required to pick up and mark all my delivery as done
+33) As a driver, I want a sorting algorithm to sort through the list of users address so that I can do my delivery the most efficient and fastest way possible
+34) As a driver, if it's a first time user and the user wants a personless drop off then I would need to provide a hanging bar in the door so that when I arrive to drop off the dry cleaning clothes I can put it in the hang bar.
+35) As a driver, when finishing dropping off the clothes to the user I should mark the drop off as done and write down a report about the user and quality of service so that the next time I am able to assist better the needs of the user
+
+
+                                                Business requirement
+
+1) As an employee, I want to group the laundry bag per user, so that once im finished I can mark the user laundry as done.
+2) As a business, I want to sort the user laundry from the priority to the least priority, so that I can finish the priority first if the user has rush delivery.
+3) As a business, I want each employee to have a unique list of user laundry to wash based on the location or borough so that I can sort out the laundry to have it deliver more easily.
+4) As a business, I want each van to contain only bags in a specific neighborhood. so that the drivers can deliver in an efficient manner
+5) As a business, I want the number of bags and dry cleaning of each van, so that I can keep count and make sure that im not missing any bags.
+6) As a business, I want a list of bags and users that need to deliver that day, so that I can keep track of how many users need their laundry to deliver that day
+7) As a business, I want to send a text message to the user when the laundry is done washing so that the user knows that their laundry was finished washing
+8) As a business, I want to sort the laundry into the van based on the user preferred time. so that when a user orders a laundry to deliver on the afternoon it gets delivered in the afternoon.
+9)As a business, When the van is ready to deliver the laundry I will notify all the user that the van is delivering to, so that the user will know that delivery is on their way and, that they going get their laundry today
+10) As a business, I want to group the laundry based on laundry care package, so that I can efficiently wash the laundry base on the user preference.
+11) As a business, I want all the laundry sorted out based on washing preference like a cold wash, low heat, type of detergent or softners. so that I can effectively wash the laundry.
+12) As a business, when finished washing all the laundry of the users, each van should have a table of user laundry that's going to be delivered so that no laundry is missing.
+13) As a business, I'm going want a table of vans and user laundry, so that I know what laundry the van needs to deliver that day.
+14) As a business, The table of vans going tell us how many bags and which bags belong to the vans.
+15) As a business, The laundry user table going tell us which vans belong to which list of laundry.
+16) As a business, I want information on which neighborhood and borough each van is going is to
+17) As a business, I want a list of laundry that's going delivered on the evening and the morning
+18) As a business, When the delivery van comes to drop the laundry at the laundry business I want the list of user laundry that the delivery guy finished picking up. so I am able to return the correct the laundry to the van for drop off
+19) As a business. I want a list of employees so that I can assign each employee to a group of user laundry to wash
+20) As a business, each bag belongs to a specific user and each user belongs to a specific van so that I can deliver the laundry back to the user address
+21) As a business, I want to keep track of how many times and how long the user  been using our laundry service so that I can reward him and give a special offer
+22) As a business, when ready to deliver the user laundry I want an invoice of purchase, so I can have it sent to the user through text
+23) As a user, I want to cancel my order within an hour, so the delivery guy won't come or charge me.
+24) As a user, when I make a new order I want to save my washing preference, so I can order again with one click
+25) As a user, I want to change my payment system, so that I get charged with the correct card.
+26) As a user, I want to change my phone number, so that in case I change my number I can still get a notification
+27) As a user, I want to change my address, in case I change home.
+28) As a user, I want to change washing preference, so I can change detergent soap, softner, cold wash and heat dryer.
+29) As a user, I want to change my password
+30)As a user, I want to check my order status so that I can see if my laundry being washed, done and processing for delivering, or currently on its way to the destination.
+31) As a user, when making an order when I click both laundry and dry cleaning service an alert screen should pop up saying to separate the laundry and the dry cleaning.
+32)  As a user, when making a new order I can use the same washing preference as my last order so that I won't have to make the same order again and make the ordering process easier. 
+33)  As a user, I want the option quick order so that I can use the same order as my previous order.
+34) As a business, I want a list of laundry that needs washing that day, so that I can keep track. 
+35) As a business, I want a list of laundry that has to get delivered that day so that I can make sure all laundry is delivered.
+36) As a business, I want a list of vans and information on the vans, like how many bags it carrying
+37) As a business, when I click on the driver, information about the drivers would pop up so that I can view information about them.
+38) As a business, I should be able to assign drivers to the van and what neighborhood they're going to be delivering to.
+39) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
